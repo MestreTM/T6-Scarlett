@@ -18,12 +18,22 @@ This will be fixed in the next patch.
 
 - An Xbox console in **Developer Mode** (tested on Xbox Series X).
 - Your own copy of the **PC game files** of Black Ops II. They are **not** included and never will be.
-- A USB drive with about 25 GB free.
+- A USB drive with about 25 GB free, or an FTP tool to send the game to the console's internal storage.
 - A PC on the same network, to install the package through the Xbox Device Portal.
 
 ## Installing
 
 Download the zip from the latest release and follow the `README.txt` inside it.
+
+### Without a USB drive (FTP)
+
+The game also runs from the console's internal storage. Send the game's files by FTP, together with the `custom` folder from the zip, to:
+
+```
+User Folders\LocalAppData\T6X.BlackOps2_...\LocalState\game\
+```
+
+Install the package and set it as a game first, then open it once so that the folder exists. When you open the game, no USB drive with a `T6X\game` folder can be plugged in: it would be used instead. Uninstalling the app deletes these files too.
 
 ## Thanks
 
