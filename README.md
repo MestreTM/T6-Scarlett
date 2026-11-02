@@ -1,10 +1,12 @@
 # T6-Scarlett
 
-Call of Duty: Black Ops II **Zombies**, running natively on **Xbox Series X|S** (codename Scarlett) **in Developer Mode** as a UWP game.
+Call of Duty: Black Ops II **Zombies**, running natively on **Xbox Series X|S** (codename Scarlett) and **Xbox One**, **in Developer Mode**, as a UWP game.
 
 This repository only hosts the **playable builds** (see [Releases](../../releases)). The source code is not published here.
 
 All of the game's features work, including **crossplay multiplayer**.
+
+**Xbox One:** it works there too (tested). Performance is lower than on Series X|S and will be improved as soon as possible.
 
 **Pre-alpha:** expect bugs, slow loading and crashes.
 
@@ -18,7 +20,7 @@ This will be fixed in the next patch.
 
 ## What you need
 
-- An Xbox console in **Developer Mode** (tested on Xbox Series X).
+- An Xbox console in **Developer Mode** (tested on Xbox Series X and Xbox One).
 - Your own copy of the **PC game files** of Black Ops II. They are **not** included and never will be.
 - A USB drive with about 25 GB free, or an FTP tool to send the game to the console's internal storage.
 - A PC on the same network, to install the package through the Xbox Device Portal.
