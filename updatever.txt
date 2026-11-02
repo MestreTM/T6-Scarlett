@@ -1,4 +1,3 @@
-0.2.1.0
-Shader cache: less stutter in a map's first rounds, from the second time you play it.
-Faster map loading.
+0.2.1.1
+Fix for stutter at the start of a match.
 Get it at github.com/MestreTM/T6-Scarlett
