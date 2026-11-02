@@ -4,6 +4,16 @@ Call of Duty: Black Ops II **Zombies**, running natively on **Xbox Series X|S** 
 
 This repository only hosts the **playable builds** (see [Releases](../../releases)). The source code is not published here.
 
+**Pre-alpha:** expect bugs, slow loading and crashes.
+
+## Known issue: the game can freeze
+
+The freezing problem is still in the game. The picture stops and you can't skip or press anything, but the sound keeps playing (seen in the intro cutscene of Mob of the Dead).
+
+**To unfreeze it, press the Xbox button, then press B to go back to the game.** The sound can be out of sync after that.
+
+This will be fixed in the next patch.
+
 ## What you need
 
 - An Xbox console in **Developer Mode** (tested on Xbox Series X).
