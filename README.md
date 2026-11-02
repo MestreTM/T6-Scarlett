@@ -29,7 +29,7 @@ Download the zip from the latest release and follow the `README.txt` inside it.
 
 - **Requiem** (Xbox, Android & Switch), our group: [Discord](https://discord.gg/7yDHBpxvwn)
 - **Protarium**, for the servers that make the online mode possible: [Discord](https://discord.gg/e3SCtkWFhU)
-- **Unbound** (Nintendo Wii), [tonytrawl/bo2-unbound](https://github.com/tonytrawl/bo2-unbound): [Discord](https://discord.gg/4Jw79dXAev)
+- **Unbound** (Nintendo Wii U), [tonytrawl/bo2-unbound](https://github.com/tonytrawl/bo2-unbound): [Discord](https://discord.gg/4Jw79dXAev)
 
 ## Disclaimer
 
