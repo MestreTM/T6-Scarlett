@@ -1,6 +1,6 @@
-# T6-Helix
+# T6-Scarlett
 
-Call of Duty: Black Ops II **Zombies**, running natively on an **Xbox console in Developer Mode** as a UWP game.
+Call of Duty: Black Ops II **Zombies**, running natively on **Xbox Series X|S** (codename Scarlett) **in Developer Mode** as a UWP game.
 
 This repository only hosts the **playable builds** (see [Releases](../../releases)). The source code is not published here.
 
