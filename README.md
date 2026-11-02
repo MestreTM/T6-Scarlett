@@ -4,6 +4,8 @@ Call of Duty: Black Ops II **Zombies**, running natively on **Xbox Series X|S** 
 
 This repository only hosts the **playable builds** (see [Releases](../../releases)). The source code is not published here.
 
+All of the game's features work, including **crossplay multiplayer**.
+
 **Pre-alpha:** expect bugs, slow loading and crashes.
 
 ## Known issue: the game can freeze
